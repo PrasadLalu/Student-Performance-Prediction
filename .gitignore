@@ -153,6 +153,7 @@ dmypy.json
 cython_debug/
 
 notebooks/catboost_info/
+catboost_info/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
